@@ -28,3 +28,6 @@ Before using the Email Service, configure your AWS SES credentials in the `appli
 aws.accessKeyID = your_access_key_id
 aws.secretKey = your_secret_access_key
 aws.region = your_aws_region
+
+
+- Author: Ayrton Jofre.
